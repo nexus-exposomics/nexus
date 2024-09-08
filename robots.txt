@@ -1,1 +1,1 @@
-Sitemap: https://nexus-exposomics.github.io/nexus/sitemap.xml
+Sitemap: https://www.nexus-exposomics.org/sitemap.xml
