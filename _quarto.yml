@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "NEXUS: Exposomics in the US"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: news.qmd
+        text: News
+      - href: contact.qmd
+        text: Contact Us
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+    
