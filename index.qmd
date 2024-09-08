@@ -15,9 +15,9 @@ The center is supported by the National Institutes of Health under grant number 
 
 ![The Exposome Network](images/network.jpg){fig-alt="Network" fig-align="center"}
 
-## Leadership Team and Cores
+## Leadership Team and Hubs
 
-![The NEXUS Core Team](images/team.jpg){fig-alt="Core team" fig-align="center"}
+![The NEXUS Core Team and Hubs](images/team.jpg){fig-alt="Core team" fig-align="center"}
 
 ## National Institutes of Health Support
 
