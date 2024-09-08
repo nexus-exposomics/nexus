@@ -4,7 +4,7 @@ title: "About NEXUS"
 
 # Revolutionizing Environmental Health Research
 
-Along with the [NIEHS](https://www.niehs.nih.gov/ "NIEHS"), we are leading a center and a movement in understanding how our environments, or the exposome, shape human health. The concept of the “exposome” was first introduced by Dr. Christopher Wild in 2005 to encompass the wide array of exposures—chemical, social, physical, and more—that we encounter over our lifetimes. But where others saw an impossible challenge, we are seeing now with NEXUS an opportunity to reshape the field.
+Along with the [NIEHS](https://www.niehs.nih.gov/ "NIEHS"), we are leading a center and a movement in understanding how our environments, or the exposome, shape human health. The [concept of the “exposome” was first introduced by Dr. Christopher Wild in 2005](https://aacrjournals.org/cebp/article/14/8/1847/258124/Complementing-the-Genome-with-an-Exposome-The) to encompass the wide array of exposures—chemical, social, physical, and more—that we encounter over our lifetimes. But where others saw an impossible challenge, we are seeing now with NEXUS an opportunity to reshape the field.
 
 NEXUS zeroes in on what truly matters: the factors that have the greatest impact on health and can be measured with today’s cutting-edge technology. Our mission is to revolutionize how the biomedical and public health communities think about environmental drivers of disease by creating new tools, investigator research networks, and methods that make exposomics a core part of scientific and biomedical research.
 

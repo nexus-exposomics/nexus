@@ -1,17 +1,17 @@
 ---
-title: "NEXUS: the Next generation of EXposomics in the United States"
+title: "NEXUS: the Network of EXposomics in the United States"
 ---
 
 ![](images/nexusround.jpg){fig-alt="" fig-align="center" style="float: right;" width="266"}
 
-The NEXUS (**N**ext generation of **EX**posomics in the **U**nited **S**tates) is a Center for Exposome Research Coordination, aiming to serve the broad biomedical research community by orchestrating the advancement and promotion of exposome research.
+The NEXUS (**N**etwork of **EX**posomics in the **U**nited **S**tates) is a Center for Exposome Research Coordination, aiming to serve the broad biomedical research community by orchestrating the advancement and promotion of exposome research.
 
 The center is supported by the National Institutes of Health under grant number **U24ES036819**.
 
 
 
 
-## The NEXUS Network
+## The Network
 
 ![The Exposome Network](images/network.jpg){fig-alt="Network" fig-align="center"}
 
