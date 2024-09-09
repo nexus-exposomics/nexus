@@ -6,10 +6,7 @@ title: "NEXUS: the Network of EXposomics in the United States"
 
 The NEXUS (**N**etwork of **EX**posomics in the **U**nited **S**tates) is a Center for Exposome Research Coordination, aiming to serve the broad biomedical research community by orchestrating the advancement and promotion of exposome research.
 
-The center is supported by the National Institutes of Health under grant number **U24ES036819**.
-
-
-
+The center is supported by the National Institutes of Health under grant number [**U24ES036819**](https://reporter.nih.gov/project-details/10993456 "NIH Reporter").
 
 ## The Network
 
@@ -21,11 +18,13 @@ The center is supported by the National Institutes of Health under grant number 
 
 ## Support
 
-We are proud to have funding support from the NIH institutes, including:
+We are proud to have funding support from the following NIH institutes:
 
 -   National Institute of Environmental Health Sciences ([NIEHS](https://www.niehs.nih.gov/))
 -   National Institute on Aging ([NIA](https://www.nia.nih.gov/))
 -   National Institute of Neurological Disorders and Stroke ([NINDS](https://www.ninds.nih.gov/))
 -   National Cancer Institute ([NCI](https://www.cancer.gov/))
 -   National Institute of Arthritis and Musculoskeletal and Skin Diseases ([NIAMS](https://www.niams.nih.gov/))
--   Office of the Director ([OD](https://www.nih.gov/institutes-nih/nih-office-director "Office of the Director"))
+-   Office of Research on Women's Health ([ORWH](https://urldefense.proofpoint.com/v2/url?u=https-3A__orwh.od.nih.gov_&d=DwMF-g&c=WO-RGvefibhHBZq3fL85hQ&r=Fkr4cKYb4VN6gRK-RJB393QKhtAj5_woms_Lxw8fSok&m=nr4UwQMmatjflZKfqIwg1IOnSMBeFQkoXIuf6uQH0T7dZThtgJ55SrTLrHSDnXrm&s=y26zOR72y405GoMHBy7HJlyj7Z4qxRV_4sPAGXHs6oY&e=))
+
+More information can be found on [NIH Reporter](https://reporter.nih.gov/project-details/10993456 "NIH Reporter").
