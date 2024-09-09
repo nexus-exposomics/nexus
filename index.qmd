@@ -25,6 +25,6 @@ We are proud to have funding support from the following NIH institutes and Offic
 -   National Institute of Neurological Disorders and Stroke ([NINDS](https://www.ninds.nih.gov/))
 -   National Cancer Institute ([NCI](https://www.cancer.gov/))
 -   National Institute of Arthritis and Musculoskeletal and Skin Diseases ([NIAMS](https://www.niams.nih.gov/))
--   Office of Research on Women's Health ([ORWH](https://urldefense.proofpoint.com/v2/url?u=https-3A__orwh.od.nih.gov_&d=DwMF-g&c=WO-RGvefibhHBZq3fL85hQ&r=Fkr4cKYb4VN6gRK-RJB393QKhtAj5_woms_Lxw8fSok&m=nr4UwQMmatjflZKfqIwg1IOnSMBeFQkoXIuf6uQH0T7dZThtgJ55SrTLrHSDnXrm&s=y26zOR72y405GoMHBy7HJlyj7Z4qxRV_4sPAGXHs6oY&e=))
+-   Office of Research on Women's Health ([ORWH](https://orwh.od.nih.gov))
 
 More information can be found on [NIH RePORTER](https://reporter.nih.gov/project-details/10993456).
