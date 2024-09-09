@@ -19,7 +19,9 @@ The center is supported by the National Institutes of Health under grant number 
 
 ![The NEXUS Core Team and Hubs](images/team.jpg){fig-alt="Core team" fig-align="center"}
 
-## National Institutes of Health Support
+## Support
+
+We are proud to have funding support from the NIH institutes, including:
 
 -   National Institute of Environmental Health Sciences ([NIEHS](https://www.niehs.nih.gov/))
 -   National Institute on Aging ([NIA](https://www.nia.nih.gov/))
