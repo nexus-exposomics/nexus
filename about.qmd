@@ -8,7 +8,9 @@ Along with the [NIEHS](https://www.niehs.nih.gov/ "NIEHS"), we are leading a cen
 
 NEXUS zeroes in on what truly matters: the factors that have the greatest impact on health and can be measured with today’s cutting-edge technology. Our mission is to revolutionize how the biomedical and public health communities think about environmental drivers of disease by creating new tools, investigator research networks, and methods that make exposomics a core part of scientific and biomedical research.
 
-This center is sponsored by the **NIH National Institute of Environmental Health Sciences \[NIEHS\] U24ES036819** and the [RFA is here](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-010.html "RFA").
+This center is sponsored by the NIH National Institute of Environmental Health Sciences ([NIEHS](https://www.niehs.nih.gov "NIEHS")),National Institute on Aging ([NIA](https://www.nia.nih.gov/)), National Institute of Neurological Disorders and Stroke ([NINDS](https://www.ninds.nih.gov/)), National Cancer Institute ([NCI](https://www.cancer.gov/)), National Institute of Arthritis and Musculoskeletal and Skin Diseases ([NIAMS](https://www.niams.nih.gov/)), and the Office of Research on Women's Health ([ORWH](https://urldefense.proofpoint.com/v2/url?u=https-3A__orwh.od.nih.gov_&d=DwMF-g&c=WO-RGvefibhHBZq3fL85hQ&r=Fkr4cKYb4VN6gRK-RJB393QKhtAj5_woms_Lxw8fSok&m=nr4UwQMmatjflZKfqIwg1IOnSMBeFQkoXIuf6uQH0T7dZThtgJ55SrTLrHSDnXrm&s=y26zOR72y405GoMHBy7HJlyj7Z4qxRV_4sPAGXHs6oY&e=)).
+
+**The grant number is U24ES036819** and Request for Applications [RFA-ES-23-010](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-010.html "RFA"). For more information on support, please check out the [NIH Reporter page](https://reporter.nih.gov/project-details/10993456 "NIH Reporter").
 
 ## Our Vision: Precision Environmental Health
 
