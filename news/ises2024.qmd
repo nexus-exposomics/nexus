@@ -1,0 +1,27 @@
+---
+title: "International Society Exposure Science 2024"
+editor: visual
+author: "Chirag Patel"
+date: 9/30/24
+categories:
+  - news
+  - events
+---
+
+Come meet the NEXUS administrative and data science hub team, NIEHS program officials, and collaborative hub members at [International Society of Exposure Science, Montreal, 2024](https://www.intlexposurescience.org/ises-2024-annual-meeting/)!
+
+Chirag will be presenting on October 24, in the session, "**Establishing a Global Community of Practice to Advance Exposome Research".**
+
+The agenda for the session includes:
+
+-   An NIH-wide Initiative for Exposome Research Coordination Within the US and Beyond (Yuxia Cui and David Balshaw, NIEHS)
+
+-   CANUE: Canada’s National Platform of General External Exposome Data (Jeffrey Brook, University of Toronto)
+
+-   Implementing the exposome within a birth cohort study (Shoji Nakayama, National Institute for Environmental Studies, Deputy Director, Tsukuba, Japan)
+
+-   Establishing an International Human Exposome Network (IHEN) (Sylvain Sebert, University of Oulu, Oulu, Finland)
+
+-   Introducing NEXUS: Network of Exposomics in the United States & Data Science Approaches for Digitization of the Exposome (Chirag Patel)
+
+[![ISES 2024](ises2024.png){fig-align="center"}](https://www.intlexposurescience.org/ises-2024-annual-meeting/)
