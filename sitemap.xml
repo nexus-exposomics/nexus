@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nexus-exposomics.org/news/niehs.html</loc>
+    <lastmod>2024-10-05T19:46:19.611Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.nexus-exposomics.org/about.html</loc>
-    <lastmod>2024-09-09T19:24:09.075Z</lastmod>
+    <lastmod>2024-10-05T16:12:22.570Z</lastmod>
   </url>
   <url>
     <loc>https://www.nexus-exposomics.org/news.html</loc>
-    <lastmod>2024-09-08T23:38:46.198Z</lastmod>
+    <lastmod>2024-10-05T19:26:20.616Z</lastmod>
   </url>
   <url>
     <loc>https://www.nexus-exposomics.org/contact.html</loc>
@@ -14,6 +18,10 @@
   </url>
   <url>
     <loc>https://www.nexus-exposomics.org/index.html</loc>
-    <lastmod>2024-09-09T22:02:33.353Z</lastmod>
+    <lastmod>2024-10-05T18:19:24.506Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nexus-exposomics.org/news/moonshot_jhu.html</loc>
+    <lastmod>2024-10-05T19:48:38.409Z</lastmod>
   </url>
 </urlset>
