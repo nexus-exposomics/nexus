@@ -5,6 +5,7 @@ author: "Chirag Patel"
 date: 10/05/24
 categories:
   - news
+  - events
 ---
 
 Will it take a moonshot to characterize and map the human exposome? Join the Exposome Moonshot Forum to have your say, May 12-15, 2025!
