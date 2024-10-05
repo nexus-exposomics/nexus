@@ -1,6 +1,11 @@
 ---
-title: "NEXUS News"
+title: "NEXUS News and Views"
+listing:
+  contents: news
+  sort: "date desc"
+  type: grid
+  categories: true
 ---
 
-Coming shortly after our announcement on 9/9!
+
 

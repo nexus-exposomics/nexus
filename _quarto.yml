@@ -17,7 +17,8 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: cosmo
+    mainfont: Helvetica Neue
     css: styles.css
     toc: true
     
