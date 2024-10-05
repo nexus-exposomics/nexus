@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>NEXUS: Exposomics in the US</title>
+<link>https://www.nexus-exposomics.org/news.html</link>
+<atom:link href="https://www.nexus-exposomics.org/news.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Sat, 05 Oct 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Exposome Moonshot Project at Johns Hopkins 2025</title>
+  <dc:creator>Chirag Patel</dc:creator>
+  <link>https://www.nexus-exposomics.org/news/moonshot_jhu.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Will it take a moonshot to characterize and map the human exposome? Join the Exposome Moonshot Forum to have your say, May 12-15, 2025!</p>
+<p>The Forum is scheduled to take place at the <a href="https://washingtondc.jhu.edu/bloomberg-center/" title="Bloomberg">Bloomberg Center located at 555 Pennsylvania Ave, Washington, DC, USA.</a> Mark your calendars!</p>
+<p>The Forum aims to create a public-private partnership of diverse stakeholders tasked with advancing this burgeoning field by driving technological innovation and public awareness. The event will be started by our opening keynote speaker Dr.&nbsp;Rick Woychik, director of the US National Institute of Environmental Health Sciences.</p>
+<p>For more information, please check this out:<a href="https://exposomemoonshot.org" class="uri">https://exposomemoonshot.org</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://exposomemoonshot.org"><img src="https://www.nexus-exposomics.org/news/moonshot.jpg" class="img-fluid figure-img" width="500" alt="Aim for the moon to sequence the exposome. Image created by DALL-E, “a moon against a dark sky with the earth on the horizon”"></a></p>
+<figcaption>Aim for the moon to sequence the exposome. Image created by DALL-E, “a moon against a dark sky with the earth on the horizon”</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://www.nexus-exposomics.org/news/moonshot_jhu.html</guid>
+  <pubDate>Sat, 05 Oct 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>NIEHS Announces NEXUS!</title>
+  <dc:creator>Chirag Patel</dc:creator>
+  <link>https://www.nexus-exposomics.org/news/niehs.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In the October 2024 issue of NIEHS’s <a href="https://factor.niehs.nih.gov/">Environmental Factor</a> online magazine, <a href="index.html">NEXUS</a> was prominently featured as a place to advance exposomics research.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://factor.niehs.nih.gov/2024/10/feature/1-feature-exposomics"><img src="https://www.nexus-exposomics.org/news/exposomics-body1.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="804" alt="Image courtesy of NIEHS"></a></p>
+<figcaption>Image courtesy of NIEHS</figcaption>
+</figure>
+</div>
+<p>Check out the issue and the article here: <a href="https://factor.niehs.nih.gov/2024/10/feature/1-feature-exposomics" class="uri">https://factor.niehs.nih.gov/2024/10/feature/1-feature-exposomics</a></p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://www.nexus-exposomics.org/news/niehs.html</guid>
+  <pubDate>Mon, 30 Sep 2024 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
