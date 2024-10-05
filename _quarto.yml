@@ -11,9 +11,12 @@ website:
       - href: about.qmd
         text: About
       - href: news.qmd
-        text: News
+        text: News & Views
       - href: contact.qmd
         text: Contact Us
+    right: 
+      - icon: rss
+        href: index.xml
 
 format:
   html:

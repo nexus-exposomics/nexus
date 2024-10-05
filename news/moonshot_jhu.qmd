@@ -3,6 +3,8 @@ title: "Exposome Moonshot Project at Johns Hopkins 2025"
 editor: visual
 author: "Chirag Patel"
 date: 10/05/24
+categories:
+  - news
 ---
 
 Will it take a moonshot to characterize and map the human exposome? Join the Exposome Moonshot Forum to have your say, May 12-15, 2025!

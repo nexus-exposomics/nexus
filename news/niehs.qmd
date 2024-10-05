@@ -4,6 +4,8 @@ subtitle: "NIEHS Environmental Factor"
 editor: visual
 author: "Chirag Patel"
 date: 9/30/24
+categories:
+  - news
 ---
 
 In the October 2024 issue of NIEHS's [Environmental Factor](https://factor.niehs.nih.gov/) online magazine, [NEXUS](index.html) was prominently featured as a place to advance exposomics research.

@@ -3,17 +3,19 @@ title: ""
 ---
 
 ::: columns
-
-::: {.column width="40%"}
+::: {.column width="60%"}
 ![](images/nexuslogo.png){width="100%" style="float: right; padding-right:20px"}
 :::
 
-::: {.column width="60%"}
-The NEXUS (**N**etwork of **EX**posomics in the **U**nited **S**tates) is a Center for Exposome Research Coordination (CERC), aiming to serve the broad biomedical research community by orchestrating the advancement and promotion of exposome research.
+::: {.column width="40%"}
+The NEXUS (**N**etwork of **EX**posomics in the **U**nited **S**tates) is a Center for Exposome Research Coordination (CERC).
+
+The center aims to serve the broad biomedical research community by orchestrating the advancement and promotion of exposome research.
 
 The center is supported by the National Institutes of Health under grant number [**U24ES036819**](https://reporter.nih.gov/project-details/10993456 "NIH Reporter").
-:::
 
+Learn more [about the center and the exposome here](about.html), and catch up with the [latest news from the center here](news.html).
+:::
 :::
 
 ## The Network
