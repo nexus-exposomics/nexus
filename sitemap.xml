@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.nexus-exposomics.org/news/niehs.html</loc>
-    <lastmod>2024-10-05T21:06:45.852Z</lastmod>
+    <loc>https://www.nexus-exposomics.org/news/exposomics_banbury_lein.html</loc>
+    <lastmod>2024-10-06T00:51:41.854Z</lastmod>
   </url>
   <url>
-    <loc>https://www.nexus-exposomics.org/news/ises2024.html</loc>
-    <lastmod>2024-10-05T22:13:26.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nexus-exposomics.org/index.html</loc>
-    <lastmod>2024-10-05T20:58:14.819Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nexus-exposomics.org/contact.html</loc>
-    <lastmod>2024-09-08T23:29:24.440Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nexus-exposomics.org/news.html</loc>
-    <lastmod>2024-10-05T21:01:58.986Z</lastmod>
+    <loc>https://www.nexus-exposomics.org/news/moonshot_jhu.html</loc>
+    <lastmod>2024-10-05T21:39:12.852Z</lastmod>
   </url>
   <url>
     <loc>https://www.nexus-exposomics.org/about.html</loc>
     <lastmod>2024-10-05T16:12:22.570Z</lastmod>
   </url>
   <url>
-    <loc>https://www.nexus-exposomics.org/news/moonshot_jhu.html</loc>
-    <lastmod>2024-10-05T21:39:12.852Z</lastmod>
+    <loc>https://www.nexus-exposomics.org/news.html</loc>
+    <lastmod>2024-10-05T21:01:58.986Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nexus-exposomics.org/contact.html</loc>
+    <lastmod>2024-09-08T23:29:24.440Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nexus-exposomics.org/index.html</loc>
+    <lastmod>2024-10-05T22:18:07.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nexus-exposomics.org/news/ises2024.html</loc>
+    <lastmod>2024-10-05T22:13:26.885Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nexus-exposomics.org/news/niehs.html</loc>
+    <lastmod>2024-10-05T21:06:45.852Z</lastmod>
   </url>
 </urlset>
