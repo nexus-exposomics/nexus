@@ -18,6 +18,7 @@ Learn more [about the center and the exposome here](about.html), and catch up wi
 :::
 :::
 
+
 ## The Network
 
 ![](images/network.jpg){fig-alt="Network" fig-align="center"}
