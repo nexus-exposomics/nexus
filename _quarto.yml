@@ -5,7 +5,9 @@ website:
   title: "NEXUS: Exposomics in the US"
   google-analytics: "G-L4BSY2WT02"
   favicon: "images/favtightico.jpg"
+  site-url: https://www.nexus-exposomics.org
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home

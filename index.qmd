@@ -23,9 +23,50 @@ Learn more [about the center and the exposome here](about.html), and catch up wi
 
 ![](images/network.jpg){fig-alt="Network" fig-align="center"}
 
-## Leadership Team and Hubs
+## The Hubs
+::: columns
+::: {.column width="15%"}
+![](images/Nexusstakeholdertight.png){fig-align="right" style="float: right;" width="100%"}
+:::
 
-![](images/team.jpg){fig-alt="Core team" fig-align="center"}
+::: {.column width="85%"}
+1. **Administrative and Stakeholder Engagement Hub**\
+   Building collaborative networks to fufill the multi-disciplinary needs for inclusive exposomic research.
+:::
+:::
+
+::: columns
+::: {.column width="15%"}
+![](images/Nexuschembiotight.png){fig-align="right" style="float: right;" width="100%"}
+:::
+
+::: {.column width="85%"}
+2.  **ChemBio Analytical Sciences Hub**\
+    Disseminating high-throughput exposure measurement technologies.
+:::
+:::
+
+::: columns
+::: {.column width="15%"}
+![](images/Nexusgeospatialtight.png){fig-align="right" style="float: right;" width="100%"}
+:::
+
+::: {.column width="85%"}
+3.   **Geospatial Sciences Hub**\
+    Disseminating and validating state-of-the art approaches to link place to exposure and health.
+:::
+:::
+
+::: columns
+::: {.column width="15%"}
+![](images/Nexusdatanetworktight.png){fig-align="right" style="float: right;" width="100%"}
+:::
+
+::: {.column width="85%"}
+4.  **NEXUS Data Sciences Hub**\
+    Developing digital infrastructure to support a new era of precision environmental health.
+:::
+:::
 
 ## Support
 
