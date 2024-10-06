@@ -3,18 +3,19 @@ title: ""
 ---
 
 ::: columns
-::: {.column width="60%"}
-![](images/nexuslogo.png){width="100%" style="float: right; padding-right:20px"}
+::: {.column width="45%"}
+![](images/nexuslogo.png){width="100%" style="float: right; padding-right:20px; padding-bottom:20px"}
 :::
 
-::: {.column width="40%"}
+::: {.column width="50%"}
 The NEXUS (**N**etwork of **EX**posomics in the **U**nited **S**tates) is a Center for Exposome Research Coordination (CERC).
 
 The center aims to serve the broad biomedical research community by orchestrating the advancement and promotion of exposome research.
 
-The center is supported by the National Institutes of Health under grant number [**U24ES036819**](https://reporter.nih.gov/project-details/10993456 "NIH Reporter").
+The center is supported by the National Institutes of Health under grant number [**U24ES036819**](https://reporter.nih.gov/project-details/10993456 "NIH Reporter"). 
 
 Learn more [about the center and the exposome here](about.html), and catch up with the [latest news from the center here](news.html).
+
 :::
 :::
 
@@ -42,7 +43,7 @@ Learn more [about the center and the exposome here](about.html), and catch up wi
 
 ::: {.column width="85%"}
 2.  **ChemBio Analytical Sciences Hub**\
-    Disseminating high-throughput exposure measurement technologies.
+    Disseminating and validating high-throughput exposure measurement technologies.
 :::
 :::
 
@@ -53,7 +54,7 @@ Learn more [about the center and the exposome here](about.html), and catch up wi
 
 ::: {.column width="85%"}
 3.   **Geospatial Sciences Hub**\
-    Disseminating and validating state-of-the art approaches to link place to exposure and health.
+   State-of-the art approaches to link place and time to exposure and health.
 :::
 :::
 
@@ -67,6 +68,10 @@ Learn more [about the center and the exposome here](about.html), and catch up wi
     Developing digital infrastructure to support a new era of precision environmental health.
 :::
 :::
+
+
+
+
 
 ## Support
 
